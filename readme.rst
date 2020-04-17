@@ -8,6 +8,7 @@ Using CodeIgniter
 
 Database mysql 
 db Name -> crud_mplus
+
 table use -> book_db
 
 Test on Xampp
